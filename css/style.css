@@ -156,7 +156,7 @@ first div in the grid  and place it in the grid. */
  four rows in the grid. */
 .about, .method, .clients, .contact{
 grid-column: 2 / span 1;
-overflow: visible;
+overflow: hidden;
 }
 .about-image, .method-image, .clients-image, .contact-image{
 grid-column: 1 / -1;
