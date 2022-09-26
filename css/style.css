@@ -184,6 +184,7 @@ overflow: hidden;
 .text-block{
   text-align: center;
   margin: auto;
+  max-height: 500px;
 }
 
 /* Add your media query here */
